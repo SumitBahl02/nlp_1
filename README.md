@@ -8,4 +8,4 @@ This is sub field of NLP.
 
 ### NLP_1_1_1
 
-This is a Naturam Language Processing.
+This is a Natural Language Processing.
